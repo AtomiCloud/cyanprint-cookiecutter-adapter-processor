@@ -1,0 +1,8 @@
+username: cyan
+name: cookiecutter
+description: CookieCutter adapter as processor
+project: https://github.com/AtomiCloud/cyanprint-cookiecutter-adapter-processor
+source: https://github.com/AtomiCloud/cyanprint-cookiecutter-adapter-processor
+email: ernest@atomi.cloud
+tags: ["cyanprint","cookiecutter","default"]
+readme: README.MD
