@@ -10,7 +10,7 @@ chardet==5.2.0
 charset-normalizer==3.3.2
 click==8.1.7
 cookiecutter==2.4.0
-cyanprintsdk==1.3.7
+cyanprintsdk==1.4.4
 frozenlist==1.4.0
 future==0.18.3
 idna==3.4
